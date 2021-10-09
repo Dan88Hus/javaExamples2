@@ -7,6 +7,7 @@ public class Animal {
     private int weight;
 
     public Animal(String name, int brain, int body, int size, int weight) {
+        // in static methods we cant use this keyword
         this.name = name;
         this.brain = brain;
         this.body = body;
