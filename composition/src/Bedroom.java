@@ -1,5 +1,7 @@
 public class Bedroom {
-    private String name;
+//    encapsulation also let us to use getter and setter to take more control on variables
+
+    private String name; //private is because of encapsulation
     private Wall wall1;
     private Wall wall2;
     private Wall wall3;
