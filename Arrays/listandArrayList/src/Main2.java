@@ -38,6 +38,9 @@ public class Main2 {
                     }
                     break;
                 case 3:
+                    System.out.println("Enter existing name: ");
+                    String existingName = scanner.nextLine();
+//                    not completed
                     mobilePhone.updateContact();
                     break;
                 case 4:
