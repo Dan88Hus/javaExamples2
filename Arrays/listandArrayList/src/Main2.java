@@ -41,13 +41,13 @@ public class Main2 {
                     System.out.println("Enter existing name: ");
                     String existingName = scanner.nextLine();
 //                    not completed
-                    mobilePhone.updateContact();
+//                    mobilePhone.updateContact();
                     break;
                 case 4:
-                    mobilePhone.removeContact();
+//                    mobilePhone.removeContact();
                     break;
                 case 5:
-                   mobilePhone.queryContact();
+//                   mobilePhone.queryContact();
                 case 6:
                     printActions();
                     break;

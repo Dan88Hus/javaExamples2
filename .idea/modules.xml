@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Autoboxing/Autoboxing.iml" filepath="$PROJECT_DIR$/Arrays/Autoboxing/Autoboxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPMaster/OOPMaster.iml" filepath="$PROJECT_DIR$/OOPMaster/OOPMaster.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Reverse/Reverse.iml" filepath="$PROJECT_DIR$/Arrays/Reverse/Reverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
