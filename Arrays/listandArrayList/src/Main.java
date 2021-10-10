@@ -62,7 +62,7 @@ public class Main {
         System.out.print("Enter Item number");
         int itemNo = scanner.nextInt();
         scanner.nextLine(); //it clears the buffer
-        groceryList.removeGroceryItem(itemNo);
+        groceryList.removeGroceryItem(itemNo-1);
     }
 
     public static void searchForItem() {
