@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaExamples2.iml" filepath="$PROJECT_DIR$/.idea/javaExamples2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/listandArrayList/listandArrayList.iml" filepath="$PROJECT_DIR$/Arrays/listandArrayList/listandArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/naming/naming.iml" filepath="$PROJECT_DIR$/naming/naming.iml" />
       <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
     </modules>
   </component>
